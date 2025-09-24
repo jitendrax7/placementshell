@@ -13,7 +13,7 @@ import MentorDashboard from "./pages/Mentor/Dashboard";
 import StudentList from "./pages/Mentor/StudentList";
 import Approvals from "./pages/Mentor/Approvals";
 import Feedback from "./pages/Mentor/Feedback";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 
 function AppRoutes() {
   return (
